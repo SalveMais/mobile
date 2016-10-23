@@ -1,0 +1,12 @@
+import { combineReducers } from 'redux'
+import configureStore from './CreateStore'
+
+export default () => {
+  /* ------------- Assemble The Reducers ------------- */
+  const rootReducer = combineReducers({
+    temperature: require('./TemperatureRedux').reducer,
+    login: require('./LoginRedux').reducer
+  })
+
+  return configureStore(rootReducer)
+}
