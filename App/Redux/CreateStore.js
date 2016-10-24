@@ -3,7 +3,7 @@ import { autoRehydrate } from 'redux-persist'
 import createLogger from 'redux-logger'
 import Config from '../Config/DebugSettings'
 import R from 'ramda'
-import RehydrationServices from '../Services/RehydrationServices'
+// import RehydrationServices from '../Services/RehydrationServices'
 import ReduxPersist from '../Config/ReduxPersist'
 import { StartupTypes } from './StartupRedux'
 
@@ -60,7 +60,7 @@ export default (rootReducer) => {
 
   // configure persistStore and check reducer version number
   if (ReduxPersist.active) {
-    RehydrationServices.updateReducers(store)
+    //RehydrationServices.updateReducers(store)
   }
 
 

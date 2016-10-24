@@ -15,6 +15,8 @@ import { Images } from '../Themes'
 
 import LoginActions from '../Redux/LoginRedux'
 import { Actions as NavigationActions } from 'react-native-router-flux'
+import { authentication } from '../Services/Api';
+import { AsyncStorage } from 'react-native'
 
 import OpacityInput from '../Components/OpacityInput';
 import OpacityButton from '../Components/OpacityButton';
@@ -28,6 +30,18 @@ class ManualRegisterScreen extends React.Component {
       password: ""
     }
 
+    this.submit = this.submit.bind(this)
+  }
+
+  submit() {
+    authentication(this.state)
+      .then(response => {
+        if (response.status == 200) {
+          alert(response.json())
+          AsyncStorage.setItem('token', response.data.token)
+            .done(data => {NavigationActions.user_setup})
+        }
+      })
   }
 
   render () {
@@ -49,7 +63,7 @@ class ManualRegisterScreen extends React.Component {
 
         <OpacityButton
           text="ENTRAR"
-          onPress={NavigationActions.user_setup}
+          onPress={this.submit}
           styles={Styles.button}
         />
 

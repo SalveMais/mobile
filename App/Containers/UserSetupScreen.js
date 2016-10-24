@@ -9,12 +9,15 @@ import {
   Keyboard,
   LayoutAnimation
 } from 'react-native'
-import { connect } from 'react-redux'
-import Styles from './Styles/UserSetupScreenStyles'
-import { Images } from '../Themes'
 
-import LoginActions from '../Redux/LoginRedux'
+import { connect } from 'react-redux'
+import { Images } from '../Themes'
 import { Actions as NavigationActions } from 'react-native-router-flux'
+
+import { setup } from '../Services/Api';
+
+import Styles from './Styles/UserSetupScreenStyles'
+import LoginActions from '../Redux/LoginRedux'
 
 import OpacityInput from '../Components/OpacityInput';
 import OpacityButton from '../Components/OpacityButton';
@@ -32,6 +35,14 @@ class ManualRegisterScreen extends React.Component {
       bloodType: ""
     }
 
+  }
+
+  submit() {
+    setup(this.state)
+      .then(response => {
+        if (response.status == 200)
+          alert("Login")
+      })
   }
 
   render () {
@@ -64,7 +75,7 @@ class ManualRegisterScreen extends React.Component {
           <OpacityInput
             onChangeText={(uf) => this.setState({uf})}
             value={this.state.uf}
-            placeholder="uf"
+            placeholder="UF"
             placeholderTextColor="#FFF"
             style={Styles.uf}
           />

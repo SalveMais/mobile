@@ -10,7 +10,7 @@ import {
   LayoutAnimation
 } from 'react-native'
 import { connect } from 'react-redux'
-import Styles from './Styles/UserSetupScreenStyles'
+import Styles from './Styles/AvatarListScreenStyles'
 import { Images } from '../Themes'
 
 import LoginActions from '../Redux/LoginRedux'
@@ -26,21 +26,25 @@ class AvatarList extends React.Component {
   render () {
     return (
       <View style={[Styles.container]} keyboardShouldPersistTaps>
-        <TouchableOpacity onPress={ NavigationActions.user_setup }>
-          <Image source={Images.base_avatar} style={[Styles.avatar]} />
-        </TouchableOpacity>
+        <View style={Styles.row}>
+          <TouchableOpacity onPress={ NavigationActions.user_setup }>
+            <Image source={Images.base_avatar} style={[Styles.avatar]} />
+          </TouchableOpacity>
 
-        <TouchableOpacity onPress={ NavigationActions.user_setup }>
-          <Image source={Images.base_avatar} style={[Styles.avatar]} />
-        </TouchableOpacity>
+          <TouchableOpacity onPress={ NavigationActions.user_setup }>
+            <Image source={Images.base_avatar} style={[Styles.avatar]} />
+          </TouchableOpacity>
+        </View>
 
-        <TouchableOpacity onPress={ NavigationActions.user_setup }>
-          <Image source={Images.base_avatar} style={[Styles.avatar]} />
-        </TouchableOpacity>
+        <View style={Styles.row}>
+          <TouchableOpacity onPress={ NavigationActions.user_setup }>
+            <Image source={Images.base_avatar} style={[Styles.avatar]} />
+          </TouchableOpacity>
 
-        <TouchableOpacity onPress={ NavigationActions.user_setup }>
-          <Image source={Images.base_avatar} style={[Styles.avatar]} />
-        </TouchableOpacity>
+          <TouchableOpacity onPress={ NavigationActions.user_setup }>
+            <Image source={Images.base_avatar} style={[Styles.avatar]} />
+          </TouchableOpacity>
+        </View>
 
       </View>
     )

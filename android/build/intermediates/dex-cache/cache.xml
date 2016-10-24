@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-8a38f67eada0b7ce9fcfc0a6c3981684c173ea5f.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-b8fee885b56f7cc0a2d74787897e121f69b631d7.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-5a8cd9c6c658b69e4cf39ca080eaa561d5360c05.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-6dcfb6c19a0849dfdf55942ed853158aab36cf1b.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-01f355b740794d0d4771143b2651f7c2970252e2.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-7303a4b4ab1136e76abec0468ec1b85c8847dd3a.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.00/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-4a228466d3d2054ca9b15c61ca062d89d23f888c.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.00/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-801c2a2cab608e48c4464129ac823406676a08c1.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-b11bd6d6ffcfe49dce186d4fcc8a576cfa07c95c.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-ba4a7d81a90b395bb058c5d69a889dbddb17f730.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-ed7ddad04b7442c6163a4ec678987960ee1481a4.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/mobile/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17c1cff1004b7af27b91aaf1b0436750d70bfd7c">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-75cba13fd6406df8d97d3cc4a0df4b71ef10c9f3.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/mobile/react-native-config/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="716e35bcd168b3c8c0048d9b9524dbd984a96957">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-5d780e980f2bd77758fec7c72ef6b5871c944843.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.00/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-20cbda65ac4cb981b5aef3814c3ca669885b274a.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.00/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-e8c0064522105324e16299fbd2449bfbf7a9af21.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-0105810272ea99fe7f0fed4acb506faa7ca58e96.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.00/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-b1e41e74c8b20f0cc8b24fe3997125b8e2cc148b.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/mobile/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e79c489364349ee6eb5d1519b660f20cf40411c">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-bc28ff2835e493d18e1ffdba379b02c215352017.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdc91752c90040ec7871c44963c63c751b1fa94b">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-5fa48776d7f18789cd08c378ec1f197c270cdffa.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-002b1a70b2847bc9221ab07f1b5c351238939edd.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db2c76df02d034e8d49bca2a69af788a787b46b2">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-6c40ea7850298b6026dcec9d0913af568365a230.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-3e432768d6503e11d486221a703639ab927558bb.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/mobile/react-native-i18n/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5c00844f5d64c8ade27a82fd15ea3c4150a47af">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-2f5c37867dac0748753ad929ccafa97bc9ef3175.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-dcc6a4b1d78e991ac4e45c60b578dd087b1b4d24.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-ff317ce72bebc20c75d5f7e17295fc1419bf219d.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-99283810e2f2790afcb49784af39f5a46be737be.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-5e83bcdcb4600cf698af3132eece8927ed5ebda1.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-d7d1b39672b8ddc92152d7a9a184476515e6d10b.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-1f28072481eaddb35fdbacacf36ebd9fcce2c89a.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-f82d12bf02f80affa1cd0ae45eb49c66b3c974da.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/classes-8068391f4b4b7da9c2ef862d71dd3329b41d7afa.jar" />
+    </item>
+    <item
+        jar="/Users/guidiego/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/guidiego/Workspace/mobile/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-11140cee0353a5cc29ebc913a16c78a686199ce6.jar" />
+    </item>
+
+</items>
